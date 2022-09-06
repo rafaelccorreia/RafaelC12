@@ -2,7 +2,7 @@
 
 
   
-<h2 align="center">Front-end Web Developer</h2>
+<h2 align="center">Full-Stack Web Developer</h2>
 <div align="center" display="flex">
   <a href="https://github.com/RafaelC12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelccorreia&count_private=true&show_icons=true&theme=merko&locale=pt-br"/>
