@@ -1,9 +1,9 @@
-## Olá, meu nome é Rafael Correia, Sejam bem vindos ao meu perfil do Github!
+## Olá, meu nome é Rafael Correia, boas vindas ao meu perfil do Github!
 <h2 align="center">Full-Stack Web Developer</h2>
 <div align="center">
   <a href="https://github.com/rafaelccorreia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelccorreia&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelccorreia&layout=compact&langs_count=7&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelccorreia&layout=compact&langs_count=8&theme=merko"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
