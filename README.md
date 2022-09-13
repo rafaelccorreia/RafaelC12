@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/rafaelccorreia">
   <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelccorreia&show_icons=true&theme=merko&count_private=true"/>
-  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelccorreia&layout=compact&langs_count=16&theme=merko"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelccorreia&layout=compact&langs_count=9&theme=merko"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafael-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
